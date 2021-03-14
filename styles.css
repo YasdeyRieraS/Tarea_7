@@ -1,0 +1,18 @@
+.face{
+    width: 500px; height: 500px ;border: black 15px solid ;margin: 0 auto; background-color: rgb(172, 170, 170);
+}
+
+.eye{ 
+    width: 180px; height: 100px ;border: black 5px solid; background-color: green; float: left; margin-top: 40px ; margin-left: 40px;
+
+}
+
+.mouth{
+    width: 410px; height: 100px ;border: black 5px solid; background-color: white; margin-top: 300px; ;margin-left: 40px;
+
+}
+
+.tooth{
+    width: 58px; height: 70px; background-color: rgb(172, 170, 170); margin-top: 15px; ;margin-left: 20px; float:left;
+
+}
